@@ -6,15 +6,18 @@ Namaskar Coders, I'm <a href="https://www.29rj.dev/" target="_blank" rel="norefe
 I'm a Competitive Programmer and MERN Stack developer 💻 !
 </h2> 
 
-<a href="https://www.linkedin.com/in/rishabh-raj-35ab3a1a4/"><img align="left" src="https://raw.githubusercontent.com/29rj/29rj/main/images/linkedin.svg" alt="Rishabh Raj | LinkedIn" width="21px"/></a>
+### 🤝 Connect with me:
 
-<a href="https://www.instagram.com/rishabhraj11101/"><img align="left" src="https://raw.githubusercontent.com/29rj/29rj/main/images/instagram.svg" alt="Rishabh Raj  | Instagram" width="21px"/></a>
+<a href="https://www.linkedin.com/in/rishabh-raj-35ab3a1a4/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Rishabh Raj | LinkedIn" width="21px"/></a>
+
+<a href="https://www.instagram.com/rishabhraj11101/">
+<img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Rishabh Raj" width="21px"/></a>
 
 </br>
 
 ### 🔭 I'm currently working on ## Money Track Website
 
-### 🌱 I'm currently learning ## DSA
+### 🌱 I'm currently learning ## DSA 
 
 ### 💼 Technical Skills
 
