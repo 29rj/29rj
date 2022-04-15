@@ -9,10 +9,8 @@ Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">
 </h3>
 
 <h2 align="center">
-I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
+I'm a Competitive Programmer and MERN Stack developer 💻 !
 </h2> 
-
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
 ### 🤝 Connect with me:
 
@@ -77,7 +75,9 @@ I love the entire process of developing creative websites. I love the challenge 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=29rj&layout=compact)](https://github.com/29rj)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=29rj.29rj)](https://www.yushi.dev/)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=29rj.29rj)](https://www.29rj.dev/)
+
+
 <!--
 **29rj/29rj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
