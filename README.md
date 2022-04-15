@@ -24,9 +24,6 @@ I'm a Competitive Programmer and MERN Stack developer 💻 !
 <a href="https://auth.geeksforgeeks.org/user/rishabhrr8253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rishabh_devba" height="40" width="40" /></a>
 </p>
 
-</br>
-<br/>
-
 ### 💼 Technical Skills
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
