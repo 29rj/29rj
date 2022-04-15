@@ -1,7 +1,5 @@
-### Hi there 👋
-
 <h3 align="center">
-Hi there, I'm <a href="https://www.29rj.dev/" target="_blank" rel="noreferrer">Rishabh Raj</a> 👋
+### Namaskar Coders, 👋 I'm <a href="https://www.29rj.dev/" target="_blank" rel="noreferrer">Rishabh Raj</a> 👋
 </h3>
 
 <h2 align="center">
