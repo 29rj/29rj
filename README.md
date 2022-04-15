@@ -1,21 +1,18 @@
 <h3 align="center">
-### Namaskar Coders, 👋 I'm <a href="https://www.29rj.dev/" target="_blank" rel="noreferrer">Rishabh Raj</a> 👋
+Namaskar Coders, I'm <a href="https://www.29rj.dev/" target="_blank" rel="noreferrer">Rishabh Raj</a> 👋
 </h3>
 
 <h2 align="center">
 I'm a Competitive Programmer and MERN Stack developer 💻 !
 </h2> 
 
-### 🤝 Connect with me:
-
 <a href="https://www.linkedin.com/in/rishabh-raj-35ab3a1a4/"><img align="left" src="https://raw.githubusercontent.com/29rj/29rj/main/images/linkedin.svg" alt="Rishabh Raj | LinkedIn" width="21px"/></a>
 
-<a href="https://www.instagram.com/rishabhraj11101/"><img align="left" src="https://raw.githubusercontent.com/29rj/29rj/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+<a href="https://www.instagram.com/rishabhraj11101/"><img align="left" src="https://raw.githubusercontent.com/29rj/29rj/main/images/instagram.svg" alt="Rishabh Raj  | Instagram" width="21px"/></a>
 
 </br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
- ### 🔭 I'm currently working on ## Money Track Website
+### 🔭 I'm currently working on ## Money Track Website
 
 ### 🌱 I'm currently learning ## DSA
 
