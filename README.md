@@ -1,12 +1,12 @@
-<h3 align="center">
+<h1 align="center">
 Namaskar Coders, I'm <a href="https://www.29rj.dev/" target="_blank" rel="noreferrer">Rishabh Raj</a> 👋
-</h3>
+</h1>
 
 <h2 align="center">
 I'm a Competitive Programmer and MERN Stack developer 💻 !
 </h2> 
 
-## Currently Student At IIIT Jabalpur 
+### Currently Student At IIIT Jabalpur 
 
 - 🔭 I'm currently working on : Money Track Website
 - 🌱 I'm currently learning : DSA 
