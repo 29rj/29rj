@@ -6,6 +6,15 @@ Namaskar Coders, I'm <a href="https://www.29rj.dev/" target="_blank" rel="norefe
 I'm a Competitive Programmer and MERN Stack developer 💻 !
 </h2> 
 
+## Currently Student At IIIT Jabalpur 
+
+- 🔭 I'm currently working on : Money Track Website
+- 🌱 I'm currently learning : DSA 
+- 👯 Progressive learner in Web Development
+- 🥅 2022 Goals: Placement lag jaye bss 😅
+- ⚡ Fun fact: I love to draw and play guitar / drums
+
+
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/rishabh-raj-35ab3a1a4/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Rishabh Raj | LinkedIn" width="21px"/></a>
@@ -14,10 +23,7 @@ I'm a Competitive Programmer and MERN Stack developer 💻 !
 <img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Rishabh Raj" width="21px"/></a>
 
 </br>
-
-### 🔭 I'm currently working on ## Money Track Website
-
-### 🌱 I'm currently learning ## DSA 
+<br/>
 
 ### 💼 Technical Skills
 
@@ -30,7 +36,6 @@ I'm a Competitive Programmer and MERN Stack developer 💻 !
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
 
-</br>
 
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
@@ -45,13 +50,6 @@ I'm a Competitive Programmer and MERN Stack developer 💻 !
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
-
-## 📝 Latest Blog Posts
-
-- [Deploy Rails API Backend to Heroku and React Frontend to Netlify](https://yushi95.medium.com/deploy-rails-api-backend-to-heroku-and-react-frontend-to-netlify-b515239d5022)
-- [Animation Login Popup Form by Using React State Hook and CSS](https://medium.com/geekculture/animation-login-popup-form-by-using-react-state-hook-and-css-7ecf803f1fa9)
-- [Checklist ✅ for Rails Application](https://yushi95.medium.com/checklist-for-rails-application-30868cb4f48b)
-- [Self and Operator in Ruby](https://blog.usejournal.com/self-in-ruby-5e8a91fa4602)
 
 ## 📈 GitHub Stats 
 
