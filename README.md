@@ -1,5 +1,5 @@
 <h1 align="center">
-Namaskar Coders, I'm <a href="https://www.29rj.dev/" target="_blank" rel="noreferrer">Rishabh Raj</a> 👋
+I'm <a href="https://www.29rj.dev/" target="_blank" rel="noreferrer">Rishabh Raj</a> 👋
 </h1>
 
 <h2 align="center">
@@ -18,11 +18,11 @@ I'm a Competitive Programmer and MERN Stack developer 💻 !
 ### 🤝 Connect with me:
 <a href="https://www.instagram.com/rishabhraj11101/" target="_blank">
 <img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Rishabh Raj" height="40" width="40"/></a>
-<a href="https://www.linkedin.com/in/rishabh-raj-35ab3a1a4/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Rishabh Raj | LinkedIn" height="40" width="40"/></a>
-<a href="https://www.codechef.com/users/rj29" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="the_real_king" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/rishabh-raj-35ab3a1a4/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Rishabh Raj | LinkedIn" height="40" width="40"/></a>
+<a href="https://www.codechef.com/users/rj29" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Rishabh" height="40" width="40" /></a>
 <a href="https://codeforces.com/profile/rishabhraj29" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="rishabh_raj" height="40" width="40" /></a>
 <a href="https://www.leetcode.com/rishabhraj29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rishabh_raj" height="40" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rishabhrr8253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rishabh_devba" height="40" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/rishabhrr8253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Rishabh" height="40" width="40" /></a>
 </p>
 
 ### 💼 Technical Skills
