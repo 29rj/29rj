@@ -16,7 +16,7 @@ I'm a Competitive Programmer and MERN Stack developer 💻 !
 
 
 ### 🤝 Connect with me:
-<a href="https://www.instagram.com/rjrishabh00/" target="_blank">
+<a href="https://www.instagram.com/rishabhraj_7/" target="_blank">
 <img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Rishabh Raj" height="40" width="40"/></a>
 <a href="https://www.linkedin.com/in/rishabh-raj-35ab3a1a4/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Rishabh Raj | LinkedIn" height="40" width="40"/></a>
 <a href="https://www.codechef.com/users/rj29" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="Rishabh" height="40" width="40" /></a>
