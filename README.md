@@ -6,15 +6,6 @@ I'm <a href="https://www.29rj.dev/" target="_blank" rel="noreferrer">Rishabh Raj
 I'm a Competitive Programmer and MERN Stack developer 💻 !
 </h2> 
 
-### Currently Student At IIIT Jabalpur 
-
-- 🔭 I'm currently working on : Money Track Website
-- 🌱 I'm currently learning : DSA 
-- 👯 Progressive learner in Web Development
-- 🥅 2022 Goals: Placement lag jaye bss 😅
-- 📫 Contact Me At : **rajrishabh1729@gmail.com**
-
-
 ### 🤝 Connect with me:
 <a href="https://www.instagram.com/rishabhraj_7/" target="_blank">
 <img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Rishabh Raj" height="40" width="40"/></a>
